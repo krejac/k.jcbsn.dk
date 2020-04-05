@@ -7,7 +7,11 @@ title: About
   Hey there! This page is an archive of stuff I care about or somehow use some left over brain capacity on. It's not much but I guess that matches the brain capacity. 
 </p>
 
-Hi, I'm Kresten. I'm into Cyber stuff, my family and my beautifull wife. I also like the occasional running trip, watching soccer and a nice beer. 
+Hi, I'm Kresten. I'm into Cyber stuff, my family and my beautiful wife. I also like the occasional running trip, watching soccer and a nice beer with friends. 
+
+I read a lot. Sometimes for fun, sometimes for work. 
+
+I'm [@KR3ST3N](https://twitter.com/KR3ST3N) on twitter. Feel free to @me (DM's are open). 
 
 ## Setup
 
