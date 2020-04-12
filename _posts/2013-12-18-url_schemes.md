@@ -28,7 +28,7 @@ Hvilket jeg indrømmer er et lidt sjovt eksempel, da det rigtige link faktisk er
 
 Ovenstående eksempel er selvfølgelig ikke helt grebet ud af den blå luft, for det er faktisk en del af en handling, som jeg har defineret på min telefon og som jeg bruger ret ofte[^3]. Jeg læser nemlig en del artikler på min mobil og bliver der ofte præsenteret for en mobiludgave eller en URL med en masse - for mig - overflødig information i. Jeg vil derfor gerne have renset mine URL'er, så de er mere retvisende inden jeg gemmer dem. Det gør jeg med følgende x-callback-url:
 
-     clean-links://x-callback-url/clean?url=[clipboard]&x-success={{pinswift://add?url=<URL>}}
+     clean-links://x-callback-url/clean?url=[clipboard]&x-success=\{\{pinswift://add?url=<URL>\}\}
 
 Den krabat kalder jeg så fra en app, der kan eksekvere den slags hjemmelavede URL'er; nemlig [Launch Center Pro](http://contrast.co/launch-center-pro/).
 
