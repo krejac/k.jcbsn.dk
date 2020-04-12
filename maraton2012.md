@@ -7,7 +7,7 @@ title: Copenhagen Marathon 2012
   Dette er en samling af alle mine indlæg vedr. træningen op til Copenhagen Marathon 2012.
 </p>
 
-- [Opvarmning]({{ site.url }}2012/01/29/opvarmning/)
+- [Opvarmning]({{ site.url }}/2012/01/29/opvarmning/)
 - [Uge 1 - All systems check!]({{ site.url }}/2012/02/05/uge1/)
 - [Uge 2 - Programmet holdes]({{ site.url }}/2012/02/12/uge2/)
 - [Uge 3 - Gran Canaria]({{ site.url }}/2012/02/19/uge3/)
