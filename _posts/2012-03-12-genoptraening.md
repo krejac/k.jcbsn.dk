@@ -3,7 +3,9 @@ layout: post
 title: (DA) Genoptræning
 ---
 
-*Dette blogindlæg er en del af en [række indlæg](/marathon.html), som omhandler træningen til mit første maraton - Copenhagen Marathon 2012.*
+<p class="message">
+  Dette blogindlæg er en del af en <a href="/maraton2012/">række indlæg</a>, som omhandler træningen til mit første maraton - Copenhagen Marathon 2012.
+</p>
 
 I [sidste uge][uge6] pådrog jeg mig en mindre fiberskade i venstre læg. Så jeg har måtte revidere denne uges program, så det kan få mig tilbage på sporet med maratontræningen.[^1]
 
