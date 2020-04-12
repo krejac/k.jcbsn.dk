@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (DA) Python: Send mail
+title: (DA) Python - Send mail
 ---
 
 **[TL;DR](http://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn't_read)** - Det er lige gået op for mig, *hvor* nemt det egentligt er at sende en gmail med Python. Det må jeg lige få noteret...
