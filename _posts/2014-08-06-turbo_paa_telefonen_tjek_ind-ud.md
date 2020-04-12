@@ -11,11 +11,11 @@ Hver dag, når jeg ankommer på arbejde logger jeg min ankomsttid i et [Google S
 
 Med [LCP-app'en][] har jeg defineret to handlinger; en til tjek ind og en til tjek ud. Begge handlinger bliver 'trigget' via et geofence, når jeg hhv. ankommer og forlader mit arbejde. Når det sker, spørger LCP om jeg vil køre handlingen og gør jeg det starter jeg en prædefineret handling via [IFTTT-app'en][].
 
-Launch Center Pro handlingerne er relativt simple; de starter blot hver deres IFTTT-handling med det *præcise* IFTTT-navn angivet i mellem `{{` og `}}`.
+Launch Center Pro handlingerne er relativt simple; de starter blot hver deres IFTTT-handling med det *præcise* IFTTT-navn angivet i mellem `\{\{` og `\}\}`.
 
-Stempel ind: `launch://ifttt/trigger?name{{Stempel ind}}`
+Stempel ind: `launch://ifttt/trigger?name\{\{Stempel ind\}\}`
 
-Stempel ud: `launch://ifttt/trigger?name{{Stempel ud}}`
+Stempel ud: `launch://ifttt/trigger?name\{\{Stempel ud\}\}`
 
 Det mere interessante arbejde ligger i deres respektive IFTTT handlinger[^1], som laver det tunge arbejde med at skrive til regnearket.
 
