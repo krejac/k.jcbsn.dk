@@ -1,10 +1,10 @@
 —
 layout: page
-title: Copenhagen Marathon 2012
+title: Archive
 —
 
 <p class=“message”>
-  Dette er en samling af alle mine indlæg vedr. træningen op til Copenhagen Marathon 2012.
+  Welcome to the archive. 
 </p>
 
 {% for post in site.posts %}
