@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Copenhagen Marathon 2012
+title: Marathon 2012
 ---
 
 <p class="message">
