@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Server hardening' - Automatiske opdateringer
+title: Server hardening - Automatiske opdateringer
 ---
 
 

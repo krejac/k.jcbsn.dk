@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Server hardening' - Opsætning af firewall
+title: Server hardening - Opsætning af firewall
 ---
 
 [TL;DR](http://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn't_read) - Jeg har et par servere snurrende rundt om i verdenen og ser derfor tydeligt, hvor ofte de bliver udsat for angreb. Her er mine noter til opsætning af en firewall Ubuntu/Debian-box[^1].
