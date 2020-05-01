@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (DA) 'Server hardening' - Bloker uønsket trafik med fail2ban
+title: 'Server hardening' - Bloker uønsket trafik med fail2ban
 ---
 
 [TL;DR](http://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn't_read) - Jeg har et par servere snurrende rundt om i verdenen og ser derfor tydeligt, hvor ofte de bliver udsat for angreb. Her er mine noter til opsætning af fail2ban på en Ubuntu/Debian-box[^1].

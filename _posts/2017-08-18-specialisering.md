@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (DA) Specialisering
+title: Specialisering
 ---
 
 **[TL;DR](http://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn't_read)** - Min [arbejdsgiver](http://it.ku.dk/ "Københavns Universitet") har givet mig lov til at bruge tid på en [diplom i it-sikkerhed](http://www.kea.dk/kompetence/forside/it/it-sikkerhed/). Det er jeg svært begejstret for.

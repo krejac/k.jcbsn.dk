@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (DA) Esthers fødselsdag
+title: Esthers fødselsdag
 ---
 
 Idag er det Esthers fødselsdag. Hverken Kimmie eller jeg er klar, men vi kan ikke rigtigt trække den længere og vi glæder os begge helt vildt til at se hende.

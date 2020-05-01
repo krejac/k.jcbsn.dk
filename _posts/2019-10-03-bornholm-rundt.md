@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (DA) Bornholm Rundt med Lasse
+title: Bornholm Rundt med Lasse
 ---
 
 **[TL;DR](http://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn't_read)** - Sidste år fik Lasse og jeg den geniale idé at løbe Bornholm rundt sammen. Det blev til seks etaper langs Bornholms kyst og ca. 110K under sålerne.

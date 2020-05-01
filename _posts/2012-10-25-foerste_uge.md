@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (DA) Første uge med Esther
+title: Første uge med Esther
 ---
 
 Nuich, det er hårdt at være far. Der er så utroligt mange bekymringer.

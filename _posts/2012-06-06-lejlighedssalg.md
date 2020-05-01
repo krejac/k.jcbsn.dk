@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (DA) Vi sælger vores dejlige lejlighed
+title: Vi sælger vores dejlige lejlighed
 ---
 
 Vi har været utroligt glade for vores 98kvm i hjertet af Nørrebro. Men du vil nok hellere se billeder end høre mig prise den. Så beskrivelsen og tallene finder du i bunden af siden. :)

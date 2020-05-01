@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (DA) Brudt Nytårsforsæt
+title: Brudt Nytårsforsæt
 ---
 
 ![Brudt løfte]({{ site.url }}/public/assets/20140103_bokeh_broken.jpg)

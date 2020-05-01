@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (DA) To-tusinde-og-tolv
+title: To-tusinde-og-tolv
 ---
 
 2012 var på flere måder et skelsættende år i mit liv. Et år hvor kun småtingene var planlagte og de store ting ligesom bare skete.

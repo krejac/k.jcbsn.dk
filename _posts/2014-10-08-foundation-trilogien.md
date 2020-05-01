@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (DA) Foundation "trilogien"
+title: Foundation "trilogien"
 ---
 
 Livet som småbørnsfar tillader ikke helt så meget læsning, som jeg kunne ønske. Enten har jeg ikke tid eller også er jeg for træt, når jeg endelig har. Men jeg ville altså gerne læse mere.

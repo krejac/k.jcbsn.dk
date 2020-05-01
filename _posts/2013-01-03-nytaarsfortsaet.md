@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (DA) Nytårsfortsæt
+title: Nytårsfortsæt
 ---
 
 ![Bokeh]({{ site.url }}/public/assets/20130120_bokeh.jpg)

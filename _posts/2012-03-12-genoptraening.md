@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (DA) Genoptræning
+title: Genoptræning
 ---
 
 <p class="message">

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (DA) Turbo på telefonen - sms'er
+title: Turbo på telefonen - sms'er
 ---
 
 Min telefon er min livsnerve, mit fotoalbum og min kommunikationscentral på godt og ondt. Jeg bruger den flere gange i timen alle mine vågne timer. Jeg ser billeder af min datter, læser nyheder, følger med på div. netværk, mail, skriver på bloggen og alt muligt andet. Men en del af det jeg bruger den til er også rutineoperationer, som jeg gentager med mindre variationer dag efter dag; lige den slags der kandiderer til lidt automatisering.

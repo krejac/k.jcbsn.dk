@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (DA) Turbo på Terminalen - ssh To My Mac
+title: Turbo på Terminalen - ssh To My Mac
 ---
 
 [TL;DR](http://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn't_read) - Jeg har lavet et lille [script](), der tillader at man ssh'er tilbage til sin Mac uden at rode med routere, portforwarding ol. Alt det kræver er at Back To My Mac er aktiveret på begge maskiner.

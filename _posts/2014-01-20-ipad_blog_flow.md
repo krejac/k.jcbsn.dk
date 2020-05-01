@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (DA) iPad blog flow
+title: iPad blog flow
 ---
 
 **TL**;**DR** - I've implemented a workflow for my Chisel log using a combination of Pythonista scripts and x-callback-urls enabling me to write, uploading and inserting images in posts and publishing all of it on a tiny Linux box.

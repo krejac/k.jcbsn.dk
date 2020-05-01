@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (DA) Min Første Mac
+title: Min Første Mac
 ---
 
 ![Object 04]({{ site.url }}/public/assets/20140930_object-04.jpg "Object #04 - via fiftyfootshadows.net")

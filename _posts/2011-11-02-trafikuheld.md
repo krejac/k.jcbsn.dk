@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (DA) Trafikuheld
+title: Trafikuheld
 ---
 
 I mandags var jeg på vej hjem fra arbejde, da jeg blev kørt ned i lyskrydset Nørregade / Nørre Voldgade. Sammenstødet var ret voldsomt, men jeg klarede det på heldigvis uden større skader.

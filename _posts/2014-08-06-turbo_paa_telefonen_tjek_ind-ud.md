@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (DA) Turbo på telefonen - tjek ind / ud
+title: Turbo på telefonen - tjek ind / ud
 ---
 
 **TL**;**DR** - Jeg har lavet en arbejdsgang, der minder mig om at tjekke ind / ud vha. en automatiseret proces, når jeg ankommer eller forlader arbejdet.

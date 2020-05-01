@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (DA) Intervalløb
+title: Intervalløb
 ---
 
 ![10-20-30]({{ site.url }}/public/assets/20140811_10-20-30@2x.jpg)

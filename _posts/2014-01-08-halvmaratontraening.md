@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (DA) Halvmaratontræning
+title: Halvmaratontræning
 ---
 
 ![VM i Halvmaraton]({{ site.url }}/public/assets/201401_cphhalfmarathon.png)

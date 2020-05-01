@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (DA) Intro til Homebrew
+title: Intro til Homebrew
 ---
 
 **[TL;DR](http://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn't_read)** -- en appetitvækker til Homebrew for folk, der ikke _nødvendigvis_ er hjemmevante i [Terminal](https://web.archive.org/web/20130510222144/http://www.apple.com/osx/apps/all.html#terminal), men som omvendt heller ikke er bange for at fyre et par kommandoer af i ny og næ. Programmerne der bliver brugt er [Homebrew](http://brew.sh), [Caskroom](https://caskroom.github.io) og [mas-cli](https://github.com/mas-cli/mas).

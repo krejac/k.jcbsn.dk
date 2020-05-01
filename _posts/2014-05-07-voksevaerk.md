@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (DA) Vokseværk
+title: Vokseværk
 ---
 
 ![ Esthers hår ]({{ site.url }}/public/assets/20140507_esthers-haar.png)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (DA) Esthers Ode til Leverpostej
+title: Esthers Ode til Leverpostej
 ---
 
 ![Esther med finger i næsen]({{ site.url }}/public/assets/20131007_esther.png)

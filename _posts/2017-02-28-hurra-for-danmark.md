@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (DA) Hurra for Danmark
+title: Hurra for Danmark
 link: https://heimdalsecurity.com/blog/security-alert-new-torrentlocker-targets-denmark-ransomware/
 ---
 

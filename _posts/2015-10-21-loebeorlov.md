@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (DA) Løbeorlov...
+title: Løbeorlov...
 ---
 
 [TL;DR](http://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn't_read) - Jeg er blevet lige lovlig blød siden Emil kom til, så det er på tide at finde løbeskoene frem. 

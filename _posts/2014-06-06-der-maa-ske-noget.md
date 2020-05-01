@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (DA) Der må ske noget
+title: Der må ske noget
 ---
 
 Så skete det igen. Indvalideret af ondt i ryggen. Denne gang så voldsomt at jeg overvejde at tage på skadestuen i Rønne for at få nogle stærkere stoffer end man kan få i håndkøb. Det er enormt frustrerende at skulle spendere sine feriedage i sengen i stedet for sammen med kæreste og barn.

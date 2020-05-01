@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (DA) 'Server hardening' - Sikring af SSH
+title: 'Server hardening' - Sikring af SSH
 ---
 
 [TL;DR](http://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn't_read) - Jeg har et par servere snurrende rundt om i verdenen og ser derfor, hvor ofte de bliver udsat for angreb. Her er mine noter til at lukke ssh af for uvedkomne på en Ubuntu/Debian-box[^1].

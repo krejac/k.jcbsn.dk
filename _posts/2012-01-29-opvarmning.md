@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (DA) Opvarmning
+title: Opvarmning
 ---
 
 <p class="message">

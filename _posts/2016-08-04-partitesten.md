@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (DA) Partitesten
+title: Partitesten
 ---
 
 **[TL;DR](http://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn't_read)** -- Jeg foreslår en ny "kandidattest", baseret på data fra [Folketinget](ft.dk), der holder politikerne op på det de rent faktisk stemmer.

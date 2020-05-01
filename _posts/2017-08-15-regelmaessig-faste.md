@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (DA) Regelmæssig Faste
+title: Regelmæssig Faste
 ---
 
 ![Faste]({{ site.url }}/public/assets/20170815_faste.png)

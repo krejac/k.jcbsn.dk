@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (DA) Opfølgning
+title: Opfølgning
 ---
 
 [TL;DR](http://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn't_read) - At skrive ønsker og mål ned hjælper mig med at fastholde fokus i en travl hverdag.

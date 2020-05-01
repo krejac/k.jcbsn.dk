@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (DA) Back nu op, mand!
+title: Back nu op, mand!
 ---
 
 

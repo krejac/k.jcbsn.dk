@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (DA) En udviklingsplan
+title: En udviklingsplan
 ---
 
 [TL;DR](http://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn't_read) - Jeg gad godt lære at programmere, men kan jeg finde tid til det?

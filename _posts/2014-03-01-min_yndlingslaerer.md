@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (DA) Min yndlingslærer
+title: Min yndlingslærer
 ---
 
 Min yndlingslærer er ikke en lærer, der har undervist mig i skolen. Forstå mig ret: jeg har haft ganske udemærkede lærer i min egen skoletid, men jeg havde nok ikke en tendens - som andre fra min klasse havde - til at knytte mig følelsesmæssigt til dem.

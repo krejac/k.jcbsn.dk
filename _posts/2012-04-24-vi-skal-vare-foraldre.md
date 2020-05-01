@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (DA) Vi skal v&aelig;re forældre!
+title: Vi skal v&aelig;re forældre!
 ---
 
 Kimmie og jeg var i går til nakkefoldsscanning og fik der gode nyheder. Kimmie havde afgivet en god blodprøve, har en god alder og scanningen viste en lille nakkefold, hvilket tilsammen gav os det bedste resultat vi kunne ønske.

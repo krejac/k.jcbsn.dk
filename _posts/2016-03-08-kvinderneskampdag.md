@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (DA) Kvindernes Internationale Kampdag
+title: Kvindernes Internationale Kampdag
 ---
 
 [TL;DR](http://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn't_read) - Kønsstereotypering begrænser små menneskers syn på sig selv og på verdenen. Det er synd.

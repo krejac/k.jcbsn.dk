@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (DA) To-tusinde-og-tretten
+title: To-tusinde-og-tretten
 ---
 
 ![Nytår!]({{ site.url }}/public/assets/20130120_bokeh.jpg)

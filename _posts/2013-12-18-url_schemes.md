@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (DA) URL Schemes
+title: URL Schemes
 ---
 
 **tl**;**dr** - Jeg roder for tiden med [x-callback-urls](http://x-callback-url.com) og [URL skemaer](https://developer.apple.com/library/ios/featuredarticles/iPhoneURLScheme_Reference/Introduction/Introduction.html) på mine iOS enheder og har her skrevet en kort gennemgang af hvad dét er for noget og hvad det kan bruges til.

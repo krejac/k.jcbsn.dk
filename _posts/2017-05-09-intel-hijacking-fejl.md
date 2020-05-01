@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (DA) Intel Hijacking fejl
+title: Intel Hijacking fejl
 link: https://www.grahamcluley.com/intel-patches-remote-hijack-bug-hid-chips-seven-years/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (DA) Foto backup workflow
+title: Foto backup workflow
 ---
 
 **[TL;DR](http://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn't_read)** -- Jeg har konstrueret et automatisk workflow, som sikrer husstandens mange billeder og videoer taget med iPhones - samtidigt med, at de ikke behøver fylde på telefonen.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (DA) Migrering af billeder
+title: Migrering af billeder
 ---
 
 ![find + sed]({{ site.url }}/public/assets/20131006_migrering.png)
