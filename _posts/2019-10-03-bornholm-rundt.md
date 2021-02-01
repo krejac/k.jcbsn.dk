@@ -7,7 +7,7 @@ title: Bornholm Rundt med Lasse
 
 ![Lasse & Kresten på tur]({{ site.url }}/public/assets/2019-bornholm-rundt/IMG_3797.png)
 
-<!--read_more-->
+<!--more-->
 
 ---
 
