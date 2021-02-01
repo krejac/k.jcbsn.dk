@@ -17,7 +17,7 @@ author:
 plugins:
   - jekyll-paginate
 
-excerpt_separator: "<!--read_more>"
+excerpt_separator: "<!--read_more-->"
 
 # Custom vars
 version:             1.1.0
