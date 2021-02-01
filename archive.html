@@ -11,8 +11,7 @@ title: Arkiv
 
 <ul style="list-style: none;">
 {% for post in site.posts %}
-  <li>{{ post.date | date_to_string }}: <a href={{ post.url }}>
-    <h3>{{ post.title }}</h3>
+  <li>{{ post.date | date_to_string }}: <a href={{ post.url }}><h3>{{ post.title }}</h3>
   </a></li>
 {% endfor %}
 </ul>
