@@ -4,13 +4,13 @@ title: Archive
 ---
 
 <p class="message">
-  Welcome to the archive.
+  Velkommen i arkivet!
 </p>
 
 <ul style="list-style: none;">
 {% for post in site.posts %}
   <li><a href={{ post.url }}>
-    <strong>{{ post.title }}</strong>
+    <h3>{{ post.title }}</h3>
   </a></li>
 {% endfor %}
 </ul>
