@@ -1,9 +1,24 @@
-# Released under MIT License
+SOLIPSISTISK OFFENTLIG LICENS
+Version 1, april 2013
 
-Copyright (c) 2014 Mark Otto.
+Alle rettigheder reserveret (R) 2014
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+Det er tilladt for alle at kopiere og distribuere uændrede udgaver
+af dette licensdokument. Modificerede udgaver af dette dokument er
+tilladt for så vidt gælder, at du frasiger BÅDE originalen OG din
+kopi som blotte sansedata uden verificerbare årsager uden for sindet.
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+                    SOLIPSISTISK OFFENTLIG LICENS
+  VILKÅR OG BETINGELSER FOR KOPIERING, DISTRIBUTION OG ÆNDRING
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+0.Termen "værk" henviser til det falske sansedata distribueret med
+  denne licens.
+1.Termerne "du" henviser til det eneste væsen der verificerbart
+  eksisterer.
+2.Termen "forfatteren" henviser til det set af vrangforestillinger,
+  hvorved du fejlagtigt tilskriver en ekstern agent værket.
+3.Du må kopiere, modificere og distribuere værket uden restrik-
+  tioner, forudsat du ikke tror at forfatteren eksiterer og forudsat
+  du offentligt bekræfter, at værket ikke eksisterer, når du
+  refererer til værket eller hvis du bliver spurgt eller afhørt om
+  værket.
