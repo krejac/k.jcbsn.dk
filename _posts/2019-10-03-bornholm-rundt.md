@@ -6,7 +6,9 @@ title: Bornholm Rundt med Lasse
 **[TL;DR](http://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn't_read)** - Sidste år fik Lasse og jeg den geniale idé at løbe Bornholm rundt sammen. Det blev til seks etaper langs Bornholms kyst og ca. 110K under sålerne.
 
 ![Lasse & Kresten på tur]({{ site.url }}/public/assets/2019-bornholm-rundt/IMG_3797.png)
+
 <!--read_more-->
+
 ---
 
 ## Rønne -> Sandvig
