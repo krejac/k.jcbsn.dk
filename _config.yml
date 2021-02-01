@@ -4,7 +4,7 @@ tagline:             '@ jcbsn.dk'
 description:         'A personal site about security in tech, kids and friensdship'
 url:                 https://k.jcbsn.dk
 baseurl:             ''
-paginate:            3
+paginate:            10
 permalink:           pretty
 
 # About/contact
