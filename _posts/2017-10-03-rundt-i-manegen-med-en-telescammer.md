@@ -6,6 +6,7 @@ title: Rundt i manegen med en telescammer
 **[TL;DR](http://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn't_read)** - Tele-scammere ringer jævnligt rundt til uforvarende for at franarre dem penge eller lignende. Jeg prøvede i dag, da +45 4266 9829[^1] igen ringede, at tage med på turen for at se hvordan de ville snyde mig.
 
 ![tele-scammeren]({{ site.url }}/public/assets/20171003_scam.jpg)
+<!--more-->
 
 I dag havde jeg _endelig_ tid til at tale med den venlige indiske "Microsoft support"-dame, der med jævne mellemrum ringer og fortæller mig den er gal med min Windows-maskine[^2] - og den var tilsyneladende _helt_ gal for de kunne nemt påvise mange fejl.
 

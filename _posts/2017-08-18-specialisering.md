@@ -6,6 +6,7 @@ title: Specialisering
 **[TL;DR](http://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn't_read)** - Min [arbejdsgiver](http://it.ku.dk/ "Københavns Universitet") har givet mig lov til at bruge tid på en [diplom i it-sikkerhed](http://www.kea.dk/kompetence/forside/it/it-sikkerhed/). Det er jeg svært begejstret for.
 
 ![IT-sikkerhed]({{ site.url }}/public/assets/20170818_it-security.jpg)
+<!--more-->
 
 Til dagligt arbejder jeg som 'manager', i mit tilfælde som teamleder af specialister, men ikke selv som specialist. Det er en rolle, jeg befinder mig udemærket i og som jeg bilder mig ind, at jeg er rimelig god til. Men det har jeg ikke altid været. Min opfattelse er, at jo mere jeg forstår af det specialisterne laver, jo bedre er jeg til at forstå og formidle deres argumenter og overvejelser og jo bedre bliver jeg i stand til at træffe velovervejede beslutninger.
 

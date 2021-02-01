@@ -6,6 +6,7 @@ title: HTTPS på loggen
 **[TL;DR](http://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn't_read)** - Der er kommet hængelås på siden her, men trafikken er kun krypteret mellem browseren og [CDN](https://en.wikipedia.org/wiki/Content_delivery_network)'en. Er det så nok? (Spoiler: Ja, det er det.)
 
 ![https://]({{ site.url }}/public/assets/20170819_https.jpg)
+<!--more-->
 
 Indtil nu har al trafik mellem de besøgende og siden her været læsbar af tredje part. Det betyder at alle, der kan finde ud af at lytte på trafikken, principielt har haft mulighed for at opsnappe hvad man læser her på siden. Nu har jeg dog langt om længe fået lagt et ekstra lag af sikkerhed på, så det pludselig er langt mere besværligt (men ikke umuligt). Til det formål bruger jeg [Cloudflares Flexible](https://www.cloudflare.com/ssl/) option. Det betyder at kommunikation mellem browseren og Cloudflares datacentre er krypteret, men at forbindelsen fra Cloudflares datacenter til [GitHub](https://github.com/) _ikke_ er.
 
